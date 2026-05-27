@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 2
+  },
+  {
+    "name": "Новосибирск",
+    "coordinates": {
+      "x": 200.0,
+      "y": 250.0
+    },
+    "creationDate": "1010-01-01",
+    "area": 500,
+    "population": 1600000,
+    "metersAboveSeaLevel": 200.0,
+    "capital": false,
+    "government": "COMMUNISM",
+    "standardOfLiving": "ULTRA_LOW",
+    "governor": {
+      "birthday": "1977-02-03T23:09:43"
+    },
+    "id": 3
+  },
+  {
+    "name": "Екатеринбург",
+    "coordinates": {
+      "x": 175.5,
+      "y": 225.0
+    },
+    "creationDate": "1616-11-16",
+    "area": 468,
+    "population": 1500000,
+    "metersAboveSeaLevel": 270.0,
+    "capital": false,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "id": 4
+  },
+  {
+    "name": "Казань",
+    "coordinates": {
+      "x": 120.0,
+      "y": 180.0
+    },
+    "creationDate": "1616-06-06",
+    "area": 425,
+    "population": 1250000,
+    "metersAboveSeaLevel": 60.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1987-09-04T19:54:33"
+    },
+    "id": 5
+  },
+  {
+    "name": "Нижний Новгород",
+    "coordinates": {
+      "x": 135.0,
+      "y": 210.0
+    },
+    "creationDate": "1567-05-14",
+    "area": 410,
+    "population": 1250000,
+    "metersAboveSeaLevel": 100.0,
+    "capital": false,
+    "government": "COMMUNISM",
+    "standardOfLiving": "ULTRA_LOW",
+    "governor": {
+      "birthday": "2000-03-09T15:22:17"
+    },
+    "id": 6
+  },
+  {
+    "name": "Челябинск",
+    "coordinates": {
+      "x": 190.0,
+      "y": 240.0
+    },
+    "creationDate": "1634-11-10",
+    "area": 530,
+    "population": 1200000,
+    "metersAboveSeaLevel": 250.0,
+    "capital": false,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1998-03-01T12:54:33"
+    },
+    "id": 7
+  },
+  {
+    "name": "Омск",
+    "coordinates": {
+      "x": 210.0,
+      "y": 260.0
+    },
+    "creationDate": "1432-08-16",
+    "area": 570,
+    "population": 1150000,
+    "metersAboveSeaLevel": 90.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "id": 8
+  },
+  {
+    "name": "Самара",
+    "coordinates": {
+      "x": 145.0,
+      "y": 195.0
+    },
+    "creationDate": "1523-11-15",
+    "area": 540,
+    "population": 1150000,
+    "metersAboveSeaLevel": 120.0,
+    "capital": false,
+    "government": "COMMUNISM",
+    "standardOfLiving": "ULTRA_LOW",
+    "governor": {
+      "birthday": "1999-11-30T18:27:23"
+    },
+    "id": 9
+  },
+  {
+    "name": "Ростов-на-Дону",
+    "coordinates": {
+      "x": 110.0,
+      "y": 150.0
+    },
+    "creationDate": "1998-12-15",
+    "area": 350,
+    "population": 1130000,
+    "metersAboveSeaLevel": 70.0,
+    "capital": false,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "2003-05-20T16:54:21"
+    },
+    "id": 10
+  },
+  {
+    "name": "ggg",
+    "coordinates": {
+      "x": 23.0,
+      "y": 23.0
+    },
+    "creationDate": "2026-03-14",
+    "area": 1234,
+    "population": 55555,
+    "metersAboveSeaLevel": 3333.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1999-09-08T23:30:11"
+    },
+    "id": 11
+  }
+]
