@@ -1,0 +1,18 @@
+package common.models;
+import java.io.Serializable;
+import java.time.LocalDateTime;
+public class Human implements Serializable{
+    private static final long serialVersionUID = 1L;
+
+    private LocalDateTime birthday;
+    public Human(LocalDateTime birthday) {
+        this.birthday = birthday;
+    }
+    public LocalDateTime getBirthday() {
+        return birthday;
+    }
+    @Override
+    public String toString() {
+        return "Human{birthday=" + birthday + "}";
+    }
+}

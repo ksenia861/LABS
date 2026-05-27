@@ -1,0 +1,4 @@
+client\Client.class
+client\network\ClientNetworkHandler.class
+client\utils\InputManager.class
+client\utils\Validator.class

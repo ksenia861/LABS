@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  },
+  {
+    "name": "Москва",
+    "coordinates": {
+      "x": 100.5,
+      "y": 200.5
+    },
+    "creationDate": "1998-12-15",
+    "area": 2500,
+    "population": 12000000,
+    "metersAboveSeaLevel": 150.0,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "birthday": "1982-07-05T12:00:00"
+    },
+    "id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": {
+      "x": 150.0,
+      "y": 300.0
+    },
+    "creationDate": "1703-10-11",
+    "area": 1400,
+    "population": 5400000,
+    "metersAboveSeaLevel": 50.0,
+    "capital": false,
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1985-04-03T13:30:01"
+    },
+    "id": 1
+  },
+  {
+    "name": "Казань ",
+    "coordinates": {
+      "x": 123.0,
+      "y": 123.0
+    },
+    "creationDate": "2026-04-11",
+    "area": 150000,
+    "population": 1800000,
+    "metersAboveSeaLevel": 48.9,
+    "capital": true,
+    "government": "DESPOTISM",
+    "standardOfLiving": "LOW",
+    "governor": {
+      "birthday": "1970-03-10T12:43:23"
+    },
+    "id": 3
+  }
+]
