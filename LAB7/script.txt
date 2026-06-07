@@ -1,0 +1,46 @@
+info
+show
+add
+yyyy
+100
+200
+500
+100000
+50
+true
+DESPOTISM
+LOW
+2000-05-10T10:00:00
+info
+max_by_id
+print_descending
+print_field_descending_governor
+insert_at 2
+ГородВставка
+120
+220
+600
+150000
+70
+false
+TECHNOCRACY
+VERY_LOW
+1995-03-15T12:00:00
+show
+remove_by_id 3
+info
+reorder
+show
+remove_greater
+ГородСравнение
+110
+210
+450
+90000
+40
+false
+COMMUNISM
+ULTRA_LOW
+1990-01-01T10:00:00
+show
+execute_script script.txt

@@ -1,0 +1,8 @@
+common/utils/IdGenerator.class
+common/network/Response.class
+common/models/StandardOfLiving.class
+common/models/Human.class
+common/models/Coordinates.class
+common/network/Req.class
+common/models/City.class
+common/models/Government.class
